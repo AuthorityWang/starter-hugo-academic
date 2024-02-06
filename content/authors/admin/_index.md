@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Penghao Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -17,34 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ShanghaiTech University
+    url: https://www.shanghaitech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Computer Graphics
+  - Backend Development
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Undergraduate Student in Computer Science
+      institution: ShanghaiTech University
+      year: 2021 - 2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,7 +60,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Hobbies 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -120,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am pursuing an undergraduate degree in Computer Science and Technology at the School of Information Science and Technology, ShanghaiTech University. I'm also a student researcher at ShanghaiTech VRVC Lab where I am advised by Prof. Jingyi Yu and Prof. Lan Xu. I am passionate about exploring novel ideas and implementing them. My research interest lies in 3d reconstruction and computer graphics with deep learning, including neural rendering, and dynamic scene reconstruction. Recently, I have focused on using neural radiance field based methods to perform real-time, reflection-aware object reconstruction and rendering. 
 {style="text-align: justify;"}
