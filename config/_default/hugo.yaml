@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Penghao Wang - ShanghaiTech University # Website name
+title: Penghao Wang's Homepage - Shanghaitech University # Website name
 baseURL: 'https://authoritywang.github.io/' # Website URL
 
 ############################
